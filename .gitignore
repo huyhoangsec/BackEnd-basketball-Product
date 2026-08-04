@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Database & Uploads temp
+*.db
+*.sqlite
+*.sqlite3
+main.exe
+
+# Environment files
+.env
+.env.local
+
+# IDEs & OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Build & Vendor
+vendor/
+bin/
